@@ -68,8 +68,10 @@
 
 <!--**********************Bike heading******************************************>
 
-.text{
-  color: rgba(0, 0, 0, 0.192);
+.cycle{
+  color: rgba(0, 0, 0, 0.808);
+  text-align: justify;
+
 }
 
 .biketext {
